@@ -21,8 +21,6 @@
 
 🤝 Looking for new acquaintance in the IT sphere
 
-👯 Looking for opportunities to collaborate on new open source projects.
-
 
 <br>
 <br>
