@@ -1,7 +1,7 @@
 
 ### Мои проекты:
 <br>
-Магазин одежды -[Repository](https://github.com/shishanee/laram-shop)
+Магазин одежды -[![Repository]](https://github.com/shishanee/laram-shop)
 <br/>
 
 
