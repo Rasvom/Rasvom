@@ -6,14 +6,10 @@
 <br><b>-[Repository](https://github.com/shishanee/laram-shop)</b>
 <br/>
 
-<div align="center">
-<h4>Связь со мной: </h4>
-  <br/>
-  <a href="https://t.me/rasvom">
-  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
-</a>
-</div>
-<br/>
+#### Свяжись со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/rasvom)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/rasvom/)
 
 ### Стек с которым я работал:
 
