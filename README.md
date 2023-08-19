@@ -1,10 +1,12 @@
 
 ### Мои проекты:
 <br>
-<b>Магазин одежды</b>
-<br><b><kbd>React JS</kbd><kbd>Redux Toolkit</kbd></b>
-<br><b>-[Repository](https://github.com/shishanee/laram-shop)</b>
+<br><b>Магазин одежды -[Repository](https://github.com/shishanee/laram-shop)</b>
 <br/>
+
+
+---
+
 
 #### Свяжись со мной
 
