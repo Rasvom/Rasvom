@@ -1,21 +1,9 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=rasvom&style=flat&color=blue&label=PROFILE+VIEWS" alt="Profile views">
 
 <div align="center">
-<h2>Movsar Batsiev</h2> 
+<h2>Welcome</h2> 
 </div>
 <br>
-<br>
-
-<br>
-
-
-<div align="center">
-🔭 I studied at Full Stack Developer
-
-🏫I am currently learning new web technologies.
-
-🤝 Looking for new acquaintance in the IT sphere
-</div>
 
 <br>
 <br>
