@@ -19,7 +19,7 @@
 
 <br>
 <br>
-
+Последний проект над которым я работал:
 <b>➖ Магазин одежды</b>
 <br><b><kbd>React JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/shishanee/laram-shop)</b>
