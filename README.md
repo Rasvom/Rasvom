@@ -13,6 +13,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/rasvom)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/rasvom/)
 
+
+---
+
 ### Стек с которым я работал:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=JavaScript)
