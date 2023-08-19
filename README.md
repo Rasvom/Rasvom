@@ -30,3 +30,7 @@
 ![bootstrap](https://img.shields.io/badge/bootstrap-111111?style=for-the-badge&logo=Bootstrap)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![Prettier](https://img.shields.io/badge/Prettier-111111?style=for-the-badge&logo=Prettier)
+
+---
+
+![CodeWars](https://www.codewars.com/users/Rasvom/badges/large)
