@@ -1,12 +1,5 @@
-<div align="center">
-<h2>Welcome</h2> 
-</div>
-<br>
 
-<br>
-<br>
-
-### Проект над которым я недавно работал:
+### Мои проекты:
 <br>
 <b>Магазин одежды</b>
 <br><b><kbd>React JS</kbd><kbd>Redux Toolkit</kbd></b>
