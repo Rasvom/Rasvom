@@ -19,10 +19,10 @@
 
 <br>
 <br>
-### My works:
 
-<b>➖ Clothing Store Laram</b>
-<br><b><kbd>Next JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
+Проект над которым я недавно работал:
+<b>Магазин одежды</b>
+<br><b><kbd>React JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/shishanee/laram-shop)</b>
 <br/>
 
