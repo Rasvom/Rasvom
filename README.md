@@ -21,6 +21,7 @@
 <br>
 
 Проект над которым я недавно работал:
+<br>
 <b>Магазин одежды</b>
 <br><b><kbd>React JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/shishanee/laram-shop)</b>
